@@ -42,16 +42,3 @@ frameworks:
 jres:
   - "JavaBuildpack::Jre::OpenJdkJRE"
 # - "JavaBuildpack::Jre::OracleJRE"
-
-frameworks:
-  - "JavaBuildpack::Framework::AppDynamicsAgent"
-  - "JavaBuildpack::Framework::IntroscopeAgent"
-  - "JavaBuildpack::Framework::JavaOpts"
-  - "JavaBuildpack::Framework::JrebelAgent"
-  - "JavaBuildpack::Framework::MariaDbJDBC"
-  - "JavaBuildpack::Framework::NewRelicAgent"
-  - "JavaBuildpack::Framework::PlayFrameworkAutoReconfiguration"
-  - "JavaBuildpack::Framework::PlayFrameworkJPAPlugin"
-  - "JavaBuildpack::Framework::PostgresqlJDBC"
-  - "JavaBuildpack::Framework::SpringAutoReconfiguration"
-  - "JavaBuildpack::Framework::SpringInsight"
